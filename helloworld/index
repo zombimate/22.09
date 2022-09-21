@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+    <hade>
+    <title>JavaScript Basic</title>
+    <script>
+        alert('Hello,Wolde!');
+    </script>
+ </head>
+ <body>
+
+ </body>   
+</html>
